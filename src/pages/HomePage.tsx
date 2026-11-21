@@ -129,7 +129,7 @@ export function HomePage() {
                   rel="noreferrer"
                   className="flex-1 btn-gold py-2.5 rounded-xl text-sm font-semibold text-center flex items-center justify-center gap-1"
                 >
-                  Join Telegram
+                  Join 
                 </a>
               )}
             </div>
