@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /profile
+Disallow: /deposit
+Disallow: /withdraw
+Disallow: /records
+Disallow: /tasks
+Disallow: /checkin
+Disallow: /redeem
+Disallow: /change-password
+Disallow: /my-products
+
+Sitemap: /sitemap.xml

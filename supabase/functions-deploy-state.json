@@ -1,0 +1,17 @@
+{
+  "projectId": "73058987",
+  "functions": {
+    "admin-reset-password": {
+      "hasChanged": false,
+      "hash": "518c7f533ac24145f947ba0acac2a791620c27c24cc3d75a6c9c8acb7181856d"
+    },
+    "signup": {
+      "hasChanged": false,
+      "hash": "0ca1ee4d6536881a842b0d60d2f2defe76f34942d40488b8e077acd15f01ad57"
+    },
+    "vip-income-cron": {
+      "hasChanged": false,
+      "hash": "993242f65195d40f088d8b69de4bf8fa758fc67c92f4ecdc0c901a7996365fc5"
+    }
+  }
+}
