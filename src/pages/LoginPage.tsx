@@ -74,7 +74,7 @@ export function LoginPage() {
             AL ZAIN BAKERS
           </h1>
           <p className="text-white/70 text-xs sm:text-sm font-medium tracking-wide text-center">
-            Earn up to 192,000 RWF daily
+            Earn up to 20,000 RWF daily
           </p>
         </div>
 
