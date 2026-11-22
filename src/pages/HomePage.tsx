@@ -99,7 +99,7 @@ export function HomePage() {
                 <div className="w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center">
                   <Megaphone className="w-5 h-5 text-primary" />
                 </div>
-                <span className="font-bold text-foreground">Welcome to Al Zain Bakers</span>
+                <span className="font-bold text-foreground">Welcome to AL Zain Bakers</span>
               </div>
               <button onClick={() => { setShowWelcome(false); sessionStorage.setItem('welcome_dismissed', '1'); }} className="text-muted-foreground hover:text-foreground transition-colors">
                 <X className="w-4 h-4" />
@@ -107,7 +107,7 @@ export function HomePage() {
             </div>
             <p className="text-sm text-muted-foreground mb-3">{settings.welcome_message}</p>
             <div className="bg-primary/5 border border-primary/15 rounded-2xl p-3 mb-4">
-              <div className="text-xs font-bold text-foreground mb-2">How you make money with Al Zain Bakers:</div>
+              <div className="text-xs font-bold text-foreground mb-2">How you make money with AL Zain Bakers:</div>
               <ul className="text-xs text-muted-foreground space-y-1.5">
                 <li className="flex gap-2"><span className="text-primary font-bold">1.</span> Buy a VIP plan — earn daily income for the plan duration.</li>
                 <li className="flex gap-2"><span className="text-primary font-bold">2.</span> Refer friends — earn commission on their deposits (3 levels).</li>
@@ -192,7 +192,7 @@ export function HomePage() {
           <Megaphone className="w-3.5 h-3.5 text-primary shrink-0" />
           <div className="overflow-hidden flex-1">
             <p className="marquee-inner text-[11px] text-muted-foreground">
-              {settings?.announcement || 'Welcome to Al Zain Bakers! Earn 7% daily income with our premium plans.'}
+              {settings?.announcement || 'Welcome to AL Zain Bakers! Earn 7% daily income with our premium plans.'}
             </p>
           </div>
         </div>
@@ -276,7 +276,7 @@ export function HomePage() {
                 <Crown className="w-5 h-5 text-amber-300" />
                 <div className="text-base font-black text-sky-300">AL ZAIN PLANS</div>
               </div>
-              <div className="text-xs text-white/80 mt-0.5">Grow with Al Zain Bakers plans</div>
+              <div className="text-xs text-white/80 mt-0.5">Grow with AL Zain Bakers plans</div>
             </div>
             <div className="bg-white/10 border border-white/20 rounded-full px-4 py-2 text-white text-xs font-bold flex items-center gap-1 backdrop-blur-sm">
               View <ChevronRight className="w-3 h-3" />
